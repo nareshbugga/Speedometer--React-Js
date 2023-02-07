@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.image {
+  width: 50%;
+  height: 50%;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.count {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+.limit {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+}
+.container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-1 {
+  width: 90px;
+  height: 30px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: #0b69ff;
+  border-style: none;
+  border-radius: 5px;
+}
+.button-2 {
+  width: 90px;
+  height: 30px;
+  color: #94a3b8;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border-style: solid;
+  border-color: #94a3b8;
+  border-radius: 5px;
+  margin-left: 20px;
+}
